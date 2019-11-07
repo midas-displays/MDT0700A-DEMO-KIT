@@ -8,7 +8,7 @@ $ git clone [paste the URL here]
 ```
 For example:
 ```
-$  git clone https://github.com/midas-displays/MDT0500D-DEMO-KIT
+$  git clone https://github.com/midas-displays/MDT0700A-DEMO-KIT.git
 ```
 Note: Please select HTTPS and **not** SSH when you copy the link.
 
