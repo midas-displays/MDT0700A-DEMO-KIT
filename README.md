@@ -14,5 +14,7 @@ Note: Please select HTTPS and **not** SSH when you copy the link.
 
 
 ___
-For more information, please read the manual provided with the kit.
+For more information, please read the manual provided with the kit or visit our website:
+
+http://www.midasdisplays.com/product-explorer/tfts/tft-kits/7-inch-kits/mdt0700a0osc-par-kit1
 
